@@ -1,4 +1,3 @@
-// src/main/java/com/pedido/controller/PedidoController.java
 package com.pedido.controller;
 
 import com.pedido.model.Pedido;
